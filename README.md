@@ -1,4 +1,4 @@
-# Fraud_Detection_App
+# Financial Transaction Fraud Analytics
 This project focuses on analyzing financial transaction data to detect fraudulent activities using machine learning techniques.
 The dataset consists of approximately 6.3 million transactions, obtained from Kaggle: Fraud Detection Dataset.
 
