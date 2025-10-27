@@ -5,7 +5,7 @@ The dataset consists of approximately 6.3 million transactions, obtained from Ka
 
 
 
-🧠 About the Dataset
+# About the Dataset
 
 ->Source: Kaggle – https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset
 
@@ -27,38 +27,7 @@ Features:
 ->isFraud – 1 if transaction is fraudulent, else 0
 
 
-
-⚙️ Tech Stack
-
-1.Python 3.10+
-
-2.Pandas, NumPy – Data cleaning and manipulation
-
-3.Scikit-learn – Model training and evaluation
-
-4.Matplotlib, Seaborn – Data visualization and EDA
-
-5.Streamlit – Web app for live predictions
-
-6.Jupyter Notebook – For analysis and model building
-
-
-
-📁 Project Structure:
-
-
-->Data_Analysis.ipynb               # Exploratory data analysis and visualization
-
-->fraud_detection.py                # Core machine learning code
-
-->README.md                         # Project documentation
-
-
-
-
-
-
-📊 Model Performance
+# Model Performance
 
 After preprocessing and feature engineering, several algorithms were tested.
 The Random Forest Classifier provided the best results.
@@ -75,26 +44,37 @@ F1-Score: 98.1%
 
 These metrics show that the model is highly effective in detecting fraudulent transactions while maintaining strong precision and recall balance.
 
+# Features
 
 
-🚀 How to Run
+ Clean EDA with visual insights
+
+ Machine Learning model trained on large-scale transaction data
+
+ Real-time fraud prediction app using Streamlit
+
+ Kaggle dataset integration and open-source reproducibility
 
 
-1️⃣ Clone the Repository
+
+# How to Run
+
+
+1️. Clone the Repository
 
 "git clone https://github.com/rakesh007-DS/Fraud_Detection_App.git"
 
 "cd Fraud_Detection_App"
 
-2️⃣ Install Required Packages
+2️. Install Required Packages
 
 "pip install -r requirements.txt"
 
-3️⃣ Run Streamlit App
+3️. Run Streamlit App
 
 "streamlit run fraud_detection.py"
 
-4️⃣ Use the App
+4️. Use the App
 
 ->Choose the transaction type
 
@@ -105,21 +85,26 @@ These metrics show that the model is highly effective in detecting fraudulent tr
 
 
 
-🌟 Features
 
 
-✅ Clean EDA with visual insights
+# Tech Stack
 
-✅ Machine Learning model trained on large-scale transaction data
+1.Python 3.10+
 
-✅ Real-time fraud prediction app using Streamlit
+2.Pandas, NumPy – Data cleaning and manipulation
 
-✅ Kaggle dataset integration and open-source reproducibility
+3.Scikit-learn – Model training and evaluation
+
+4.Matplotlib, Seaborn – Data visualization and EDA
+
+5.Streamlit – Web app for live predictions
+
+6.Jupyter Notebook – For analysis and model building
 
 
 
 
-📊 Example Output
+# Example Output
 
 
 Input:
