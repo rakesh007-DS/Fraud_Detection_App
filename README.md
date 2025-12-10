@@ -1,9 +1,9 @@
 .
 
-# Financial Transaction Fraud Analytics 
+# Financial Transaction Fraud Detection 
 # 1. Project Overview
 
-The Financial Transaction Fraud Analytics project focuses on detecting and preventing fraudulent financial activities using machine learning techniques applied to large-scale transactional data.
+The Financial Transaction Fraud Detection project focuses on detecting and preventing fraudulent financial activities using machine learning techniques applied to large-scale transactional data.
 Using a dataset of over 6.3 million transactions sourced from Kaggle, the project demonstrates how predictive models can effectively distinguish between legitimate and fraudulent transactions based on behavioral and monetary patterns.
 
 This solution not only improves fraud detection accuracy but also helps financial institutions minimize false positives, reduce operational risks, and strengthen trust in digital banking systems.
